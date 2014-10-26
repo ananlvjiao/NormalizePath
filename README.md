@@ -50,6 +50,9 @@ foo/bar/../baz => foo/baz
 
 /foo/bar/..//baz => /foo//baz
 
+More test cases
+----------------
+[Click here to see the test file] (test/com/normalizepath/PathNormalizerTest.java)
 
 
 
